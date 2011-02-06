@@ -1,0 +1,36 @@
+﻿Build started 2/6/2011 11:37:54 AM.
+Project "c:\documents and settings\stickman\my documents\visual studio 2010\Projects\Fix Maker\Fix Maker\Fix Maker.vcxproj" on node 2 (rebuild target(s)).
+_PrepareForClean:
+  Deleting file "Debug\Fix Maker.lastbuildstate".
+InitializeBuildStatus:
+  Creating "Debug\Fix Maker.unsuccessfulbuild" because "AlwaysCreate" was specified.
+GenerateTargetFrameworkMonikerAttribute:
+Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Fix Maker.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt stdafx.cpp /clr:nostdlib 
+  stdafx.cpp
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Fix Maker.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt AssemblyInfo.cpp "Fix Maker.cpp" /clr:nostdlib 
+  AssemblyInfo.cpp
+  Fix Maker.cpp
+  Generating Code...
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\WINDOWS\TEMP\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+ResourceCompile:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\app.res" app.rc 
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\documents and settings\stickman\my documents\visual studio 2010\Projects\Fix Maker\Debug\Fix Maker.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Fix Maker.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\documents and settings\stickman\my documents\visual studio 2010\Projects\Fix Maker\Debug\Fix Maker.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+  Debug\AssemblyInfo.obj
+  "Debug\Fix Maker.obj"
+  Debug\stdafx.obj
+  "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+  Fix Maker.vcxproj -> c:\documents and settings\stickman\my documents\visual studio 2010\Projects\Fix Maker\Debug\Fix Maker.exe
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\documents and settings\stickman\my documents\visual studio 2010\Projects\Fix Maker\Debug\Fix Maker.exe;#1" /manifest "Debug\Fix Maker.exe.intermediate.manifest"
+FinalizeBuildStatus:
+  Deleting file "Debug\Fix Maker.unsuccessfulbuild".
+  Touching "Debug\Fix Maker.lastbuildstate".
+Done Building Project "c:\documents and settings\stickman\my documents\visual studio 2010\Projects\Fix Maker\Fix Maker\Fix Maker.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:30.90
