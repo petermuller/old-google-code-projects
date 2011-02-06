@@ -1,4 +1,5 @@
 = Details =
 
-Version 01 2/3/11 <br>
+*02/06/11*<br>
+Version 01<br>
 Initial release
