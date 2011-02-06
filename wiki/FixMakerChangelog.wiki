@@ -1,0 +1,12 @@
+#summary Fix Maker Changelog
+#labels Featured
+
+= Introduction =
+
+Created by Peter "Stickman" Muller
+
+
+= Details =
+
+Version 01 2/3/11
+Initial release
