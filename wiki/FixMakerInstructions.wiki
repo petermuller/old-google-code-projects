@@ -1,0 +1,8 @@
+#labels Featured
+=How to use the Fix Maker=
+
+Enter the last Wave # of your sound folder. This means that for whatever sound group you are working on, scroll to the last Wave of that set and write that number down. Note, for characters, there are usually two folders with different sets of sounds. Make sure that you are selecting the last wave in that folder and not the last wave of the character if you are in the first folder.
+
+Enter the Fix offset of Wave0. In the same folder you are working in, find the Fix offset for the first sound, then enter it into the program. Make sure that it is correct because the rest of the offsets are dependent on the first one.
+
+The program will make a text file with all the fix offsets for that sound folder for you to use for easy replacements.
