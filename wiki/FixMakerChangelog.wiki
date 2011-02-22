@@ -1,5 +1,10 @@
 = Details =
 
-*02/06/11*<br>
 Version 01<br>
-Initial release
+Initial release<br>
+<br>
+Version 02<br>
+Program no longer needs dll files for it to run<br>
+<br>
+Version 03<br>
+Hecadecimal numbers now print uppercase in the text file
