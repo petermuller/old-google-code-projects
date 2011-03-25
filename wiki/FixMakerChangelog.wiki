@@ -11,3 +11,6 @@ Hecadecimal numbers now print uppercase in the text file<br>
 <br>
 Version 04<br>
 File output is now shown on console as it is written.<br>
+<br>
+Version 05<br>
+Added Frequency offsets to the output<br>
