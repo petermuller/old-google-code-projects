@@ -18,3 +18,6 @@ Added Frequency offsets to the output<br>
 Version 05b<br>
 Cleaned frequency/fix offset columns<br>
 Program renamed to "Offset Maker"<br>
+<br>
+Version 05c<br>
+Added spacing support for ids under 1000<br>
