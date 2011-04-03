@@ -14,3 +14,7 @@ File output is now shown on console as it is written.<br>
 <br>
 Version 05<br>
 Added Frequency offsets to the output<br>
+<br>
+Version 05b<br>
+Cleaned frequency/fix offset columns<br>
+Program renamed to "Offset Maker"<br>
