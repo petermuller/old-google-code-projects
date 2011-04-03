@@ -24,20 +24,24 @@ int main()
     cout << endl;
 
     ofstream file("offsets.txt");
-    file << "             List of Offsets" << endl;
+    file << "              List of Offsets" << endl;
     file << endl;
-	file << "             Frequency Offset    Fix Offset" << endl;
+	file << "              Frequency Offset    Fix Offset" << endl;
     for (num = 0; num <= max; num++)
     {
 
         if (num < 10)
         {
+            space = "         ";
+        }
+        else if (num < 100)
+        {
             space = "        ";
         }
-        else
-        {
-            space = "       ";
-        }
+		else
+		{
+			space = "       ";
+		}
 
 			
             file << "Wave" << dec << num << space << hex << uppercase << num * 108 + off - 56 << "              " << hex << uppercase << num * 108 + off << endl;
