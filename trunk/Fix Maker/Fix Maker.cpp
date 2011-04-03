@@ -38,10 +38,10 @@ int main()
         {
             space = "        ";
         }
-		else
-		{
-			space = "       ";
-		}
+        else
+        {
+            space = "       ";
+        }
 
 			
             file << "Wave" << dec << num << space << hex << uppercase << num * 108 + off - 56 << "              " << hex << uppercase << num * 108 + off << endl;
