@@ -24,7 +24,7 @@ int main()
     cout << endl;
 
     ofstream file("offsets.txt");
-    file << "           List of Offsets" << endl;
+    file << "             List of Offsets" << endl;
     file << endl;
 	file << "             Frequency Offset    Fix Offset" << endl;
     for (num = 0; num <= max; num++)
