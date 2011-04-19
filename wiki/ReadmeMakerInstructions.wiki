@@ -3,11 +3,11 @@
 
 First, enter the number of .hex files you will have in your download. For standard replacements, there is the sound.hex and soundFIX.hex, so that is two files. Enter "2" into the program and hit enter. If you have more or less, just enter that number.
 
-Next, enter your username, but *do not use spaces.* That is just how the program works. If your name does have a space, just open the new text file after you finish making it and edit it manually. This step gives you credit for making the sfx hack.
+Next, enter your username. This step gives you credit for making the sfx hack.
 
 Region: Just enter one of the choices exactly as it appears. This lets people know what brsar to place your sfx hack in.
 
-Now you will input your sfx hacks' names, one at a time until it reaches the number of .hex files you entered earlier. Just enter the name of your .hex file *but still without spaces* and continue. An example would be: "sample.hex", or "sampleFIX.hex"
+Now you will input your sfx hacks' names, one at a time until it reaches the number of .hex files you entered earlier. Just enter the name of your .hex file and continue. An example would be: "sample.hex", or "sampleFIX.hex"
 
 The offset is just the location where your hack goes. This is the address where you pasted your hack to get it into the brsar. An example for this would be: Jigglypuff's Wave9, so you enter: "19A4928"
 
