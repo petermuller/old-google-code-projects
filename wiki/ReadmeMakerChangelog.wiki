@@ -5,3 +5,6 @@ Initial release<br>
 <br>
 Version 02<br>
 Program no longer needs dll files for it to run<br>
+<br>
+Version 03<br>
+Spaces can now be used in names of creators and files.<br>
