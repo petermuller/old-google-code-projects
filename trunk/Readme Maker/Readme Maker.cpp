@@ -17,10 +17,11 @@ int main()
     // Prepare for the header and body of readme
     cout << "Please specify the number of .hex files to be contained in this Readme." << endl;
     cin >> num;
-    cout << endl << endl << "Please enter your name for credit purposes. (Don't use spaces!)" << endl;
-    cin >> name;
+	cin.ignore();
+    cout << endl << endl << "Please enter your name for credit purposes." << endl;
+    getline (cin,name);
     cout << endl << endl << "Please enter the region of your hack (NTSC-U, NTSC-J, or PAL)" << endl;
-    cin >> region;
+    getline (cin,region);
 
     // Make a new file and write header
     ofstream file;
@@ -36,10 +37,10 @@ int main()
     for (i = 1; i <= num; i++)
     {
         // hex packet info input
-        cout << endl << "Please enter the name (include \".hex\") of hex packet " << i << " (Don't use spaces!)" << endl;
-        cin >> hack;
+        cout << endl << "Please enter the name (include \".hex\") of hex packet " << i << endl;
+        getline (cin,hack);
         cout << endl << "Please enter the offset where your hack will go" << endl;
-        cin >> off;
+        getline (cin,off);
 
         // write the info to the file, with amazing detail
         file << "Open " << hack << " in your hex editor." << endl << endl;
