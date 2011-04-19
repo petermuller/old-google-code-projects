@@ -17,7 +17,7 @@ int main()
     // Prepare for the header and body of readme
     cout << "Please specify the number of .hex files to be contained in this Readme." << endl;
     cin >> num;
-	cin.ignore();
+    cin.ignore();
     cout << endl << endl << "Please enter your name for credit purposes." << endl;
     getline (cin,name);
     cout << endl << endl << "Please enter the region of your hack (NTSC-U, NTSC-J, or PAL)" << endl;
@@ -52,7 +52,7 @@ int main()
     // ending steps
     file << "\"Save\" (Ctrl + S)" << endl << endl;
     file << "Enjoy!" << endl << endl << endl << endl << endl << endl;
-	file << "This Readme was made with Stickman's Readme Maker. For more information, check out his blog at http://stickman221.wordpress.com " << endl;
+    file << "This Readme was made with Stickman's Readme Maker. For more information, check out his blog at http://stickman221.wordpress.com " << endl;
     file.close();
     cout << endl << "New ReadMe file created!" << endl;
 
