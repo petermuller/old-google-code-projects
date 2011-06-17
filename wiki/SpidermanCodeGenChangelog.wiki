@@ -1,4 +1,4 @@
 = Details =
 
-Version 01
-initial release
+Version 01<br>
+initial release<br>
