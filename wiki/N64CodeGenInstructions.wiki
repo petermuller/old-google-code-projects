@@ -1,0 +1,4 @@
+#labels Featured
+= How to Use the N64 Code Generator Programs =
+
+All the instructions are included in the programs. Each one runs by asking the user to replace the given text with the user's new text. If there is a size error, the program will let the use know and the user is given another chance to correctly enter a new phrase into the program. After that, the program outputs a text file that contains the new codes.
