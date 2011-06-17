@@ -1,0 +1,6 @@
+= Details =
+Version 01<br>
+initial (and only) release<br>
+
+= Instructions =
+First, enter 96 into the program. Then, enter 132EE4. Now you have every image mod address in a text file called addresses.txt. (I did this by guess and check by testing addresses in the game until I didn't notice any more changes. I'm just giving you the answers so you don't have to see if it works or not.) Don't use all the codes at once in the game. It will crash.
